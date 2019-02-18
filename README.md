@@ -30,5 +30,7 @@ The motivation for building this project is to have handy a collection of simple
 
 # Credits
 
+https://stackabuse.com/webscraping-with-node-js/
+
 # License
 
