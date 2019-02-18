@@ -17,3 +17,18 @@ The motivation for building this project is to have handy a collection of simple
 # Features
 
 # Code Example
+
+# Installation
+
+# API Reference
+
+# Tests
+
+# How to Use
+
+# Contribute
+
+# Credits
+
+# License
+
